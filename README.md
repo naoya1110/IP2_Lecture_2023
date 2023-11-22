@@ -6,7 +6,7 @@
 ## Contents
 * Step01 Pythonプログラミング超入門 [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step01.ipynb)
 * Step02 演算子，データタイプ [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step02.ipynb)
-* Step03 Pythonプログラミング超入門 [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step03.ipynb)
+* Step03 リスト，タプル，辞書 [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step03.ipynb)
 * Step04 制御文 if, for, while [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step04.ipynb)
 * Step05 パッケージの利用方法とグラフ作成 [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step05.ipynb)
 * Step06 データの読み込みと分析 [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step06.ipynb)
