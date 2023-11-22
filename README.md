@@ -1,7 +1,7 @@
 # IP2 Lecture 2023
 
 ## What is this?
-どこかの高専のプログラミングの授業で使用している教材です。Google Colabで動かせます。
+どっかの高専の電気電子系学科のプログラミング授業で使用している教材。Google Colabで動かせます。
 
 ## Contents
 * Step01 Pythonプログラミング超入門 [notebook](https://github.com/naoya1110/IP2_Lecture_2023/blob/main/2023_IP2_Step01.ipynb)
